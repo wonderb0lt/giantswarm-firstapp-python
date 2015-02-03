@@ -1,6 +1,6 @@
 
 {
-  "app_name": "currentweather-app",
+  "app_name": "currentweather",
   "services": [
     {
       "service_name": "currentweather-service",
