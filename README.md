@@ -1,6 +1,10 @@
-# Your first application with Pachton, Flask, Redis and Docker on Giant Swarm
+# Your first application with Python, Flask, Redis and Docker on Giant Swarm
 
 This is a simple example to write Python/Flask applications and deploy them on [Giant Swarm]((https://giantswarm.io/)). It queries an external API and caches the data in a Redis cache.
+
+Check out the full tutorial here:
+
+http://docs.giantswarm.io/guides/your-first-application/python/
 
 ## Prerequisites
 
