@@ -15,6 +15,6 @@ RUN apt-get clean && \
 
 ADD server.py /server.py
 
-ENTRYPOINT ["python", "server.py"]
+ENTRYPOINT ["python", "-u", "server.py"]
 
 EXPOSE 5000
