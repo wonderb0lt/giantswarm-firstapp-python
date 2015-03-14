@@ -1,6 +1,5 @@
 from flask import Flask
 from flask.ext.cache import Cache
-import os
 import requests
 
 app = Flask(__name__)
