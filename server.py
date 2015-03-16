@@ -1,3 +1,5 @@
+import os
+
 from flask import Flask
 from flask.ext.cache import Cache
 import requests
