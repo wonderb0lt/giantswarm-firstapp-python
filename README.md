@@ -25,7 +25,7 @@ $ make docker-run-redis
 $ make docker-run
 ```
 
-This creates a custom Docker image with the Node.JS sources and starts both the custom Docker container and a Redis container.
+This creates a custom Docker image with the Python/Flask sources and starts both the custom Docker container and a Redis container.
 
 To test it on a Mac run something like: `curl $(boot2docker ip):5000` on Linux machines `curl localhost:5000` should be sufficient.
 
